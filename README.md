@@ -1,7 +1,9 @@
 # World Weather Analysis
 
 ## Project Overview
+
 Utilizing API calls, create a visual interface to find travel destinations, hotels, and travel routes within the users climate preferences.
+
 ---
 
 
